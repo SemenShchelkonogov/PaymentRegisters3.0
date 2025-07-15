@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Виртуальные окружения
+venv/
+.venv/
+
+# Логи и данные
+tables/
+authorized_users.json
+*.xlsx
+*.log
+
+# IDE
+.idea/
+.DS_Store
